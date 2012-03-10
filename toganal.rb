@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Print the word which has been contained in tweets at togetter page, with number of times it was used.
+# Print the word which has been contained in tweets at togetter page, with rank order of frequency of use.
 require 'igo-ruby'
 require 'nokogiri'
 

@@ -1,6 +1,6 @@
 #Toganal
 ##What's it
-Makes togetter more fun.
+Print the word which has been contained in tweets at togetter page, with rank order of frequency of use.
 
 ##Usage
     ruby toganal.rb some_togetter_page.html
