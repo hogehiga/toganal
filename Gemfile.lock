@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    igo-ruby (0.1.5)
+    nokogiri (1.5.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  igo-ruby
+  nokogiri
