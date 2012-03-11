@@ -3,7 +3,7 @@
 require 'igo-ruby'
 require 'nokogiri'
 
-tagger = Igo::Tagger.new(File.expand_path('../assets/ipadic', __FILE__)) # You should get MeCab dic and set up it.
+tagger = Igo::Tagger.new(File.expand_path('../assets/ipadic', __FILE__)) # You must locate MeCab dictionary there.
 doc = Nokogiri::HTML(open(ARGV[0]))
 dic = Hash.new(0)
 
