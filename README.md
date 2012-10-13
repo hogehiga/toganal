@@ -3,27 +3,27 @@
 Print the word which has been contained in tweets at togetter page, with rank order of frequency of use.
 
 ##Usage
-    ruby toganal.rb some_togetter_page.html
+    ruby toganal.rb any_togetter_page.html
 
 ##Example
     $ ruby toganal.rb 270512.html
     "Java: 375"
-    "¤¬: 357"
-    "²°: 341"
-    "Ã±¸ì: 337"
-    "²û¤«¤·¤¯: 336"
-    "´¶¤¸¤ë: 335"
+    "ãŒ: 357"
+    "å±‹: 341"
+    "å˜èª: 337"
+    "æ‡ã‹ã—ã: 336"
+    "æ„Ÿã˜ã‚‹: 335"
     ...
     "JavaOS: 1"
     "JavaStation: 1"
     "jsr: 1"
     "ret: 1"
     "ORO: 1"
-    "¤´¤¯: 1"
-    "ºî¤Ã: 1"
-    "¤Ş¤·: 1"
-    "¥³¡¼¥É: 1"
-    "¸«¤«¤±¤ë: 1"
+    "ã”ã: 1"
+    "ä½œã£: 1"
+    "ã¾ã—: 1"
+    "ã‚³ãƒ¼ãƒ‰: 1"
+    "è¦‹ã‹ã‘ã‚‹: 1"
 
 
 
