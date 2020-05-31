@@ -1,11 +1,11 @@
-#Toganal
-##What's it
+# Toganal
+## What's it
 Print the word which has been contained in tweets at togetter page, with rank order of frequency of use.
 
-##Usage
+## Usage
     ruby toganal.rb any_togetter_page.html
 
-##Example
+## Example
     $ ruby toganal.rb 270512.html
     "Java: 375"
     "が: 357"
